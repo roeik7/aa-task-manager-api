@@ -13,7 +13,7 @@
     "async": "^3.1.0",
     "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "libvips": "0.0.2",
     "lodash": "^4.17.15",
     "minipass": "2.7.0",
